@@ -76,6 +76,10 @@ p {
 	margin-left: auto;
     margin-right: auto;
 }
+#blogroll, #meta, #widget, #copy, #theme, #button, #summary, #logo, #linkedin, #facebook,
+#twitter, #rss, #linkedin:hover, #facebook:hover, #twitter:hover, #rss:hover, .box, .navlist {
+	display: inline-block;
+}
 #header {
 	margin-bottom: 100px;
 }
@@ -83,14 +87,12 @@ p {
 	background-image: url("../images/logo.png");
 	height: 54px;
 	width: 291px;
-	display: inline-block;
 	float: left;
 	margin: 12px 5px 0 5px;
 }
 #linkedin, #facebook, #twitter, #rss, #linkedin:hover, #facebook:hover, #twitter:hover, #rss:hover {
 	height: 48px;
 	width: 48px;
-	display: inline-block;
 	float: right;
 	margin: 12px 5px 0 5px;
 }
@@ -141,7 +143,6 @@ p {
 }
 #summary {
 	width: 620px;
-	display: inline-block;
 	font-size: 18px;
 	padding-left: 20px;
 	padding-right: 30px;
@@ -151,7 +152,6 @@ p {
 	background-image: url("../images/button_blurb.png");
 	height: 50px;
 	width: 202px;
-	display: inline-block;
 	vertical-align: middle;
 }
 #box1 {
@@ -171,23 +171,19 @@ p {
 	padding: 1px;
 }
 #blogroll, #meta {
-	display: inline-block;
 	width: 230px;
 	vertical-align: top;	
 	padding-top: 0px;
 }
 #widget {
-	display: inline-block;
 	width: 400px;
 	vertical-align: top;
 	padding-right: 30px;
 	padding-left: 30px;
 }
 #copy {
-	display: inline-block;
 	text-align: left;
 }
 #theme {
-	display: inline-block;
 	padding-left: 505px
 }
