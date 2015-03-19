@@ -135,12 +135,9 @@ p {
 }
 #blurb {
 	background-image: url("../images/bg_blurb.jpg");
-	height: 129px;
+	height: 80px;
 	width: 960;
 	border: 3px inset white;
-}
-#blurb2 {
-	padding-top: 25px;
 }
 #summary {
 	width: 620px;
