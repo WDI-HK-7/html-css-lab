@@ -1,0 +1,107 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+/*This is the styling for the nav bar*/
+nav {
+	background-color: black;
+	padding: 10px;
+	width: 100%;
+}
+
+nav li {
+	display: inline;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+nav li a {
+	color: white;
+	text-decoration: none;
+	padding: 20px;
+}
+
+nav li a:hover { 
+    background-color: lightGrey;
+    color: black;
+    padding: 20px;
+}
+
+/*This is the logo and social icons styling*/
+#logo {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.social-icons {
+	float: right;
+	padding: 10px;
+}
+
+/*This is the styling for the photobanner*/
+#photobanner {
+	box-shadow: 0 15px 30px -6px #777;
+	width: 100%;
+}
+
+/*This is the section for the quote and quote button*/
+#quote-section {
+	box-shadow: inset 0 0 5px #000000;
+	width: 100%;
+}
+
+#button-blurb {
+	float: right;
+	padding-top: 10px;
+	width: 20%;
+}
+
+#quote-paragraph {
+	display: inline-block;
+	height: 40px;
+	width: 70%;
+}
+
+/*This is the styling for the article blogs*/
+#blog-section {
+	display: inline;
+}
+
+.blog-articles article a {
+	text-decoration: none;
+}
+
+.blog-articles figure img {
+	border: solid 5px lightGrey;
+	width: 80%;
+}
+
+.blog-articles {
+	width: 30%;
+	margin-top: 10px;
+	margin-right: 1%;
+	margin-left: 1%;
+}
+
+#blog-article-one {
+	float: left;
+
+}
+
+#blog-article-two {
+	float: left;
+}
+
+#blog-article-three {
+	float: right;
+}
+
+/*This is the styling for the footer*/
+footer {
+	display: inline;
+	height: 20px;
+}
+
+footer section ul li {
+	list-style-type: none;
+}
