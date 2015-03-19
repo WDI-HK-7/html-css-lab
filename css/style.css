@@ -1,0 +1,83 @@
+#navigation {
+	 display:inline-block;
+	 padding top:10px 5px 20px 8px;
+	 padding:10px 5px 20px 8px;
+	 text-align:left;
+	 color:white;
+	 background-color:black;                                                                                                                                         
+	 position:relative;                                                                 
+	 width: 960px; 
+ }
+ body {
+ 	background: url("../images/bg_body.jpg");
+
+ }
+#top {    
+	display: inline-block;                                                                            
+    background: white;                                                                  
+    height: 100px;                                                                       
+    left: 0;                                                                            
+    margin: 0;                                                                          
+    padding: 0;                                                                         
+    position: relative;                                                                 
+    width: 960px;                                                                        
+}    
+#links {
+	float: right;
+}                                                                                   
+                                                               
+}                                                                                       
+#header-logo {
+	float: left;
+	position: absolute;
+	display: inline;
+	width: 50px; 
+	bottom: 0;
+	right: 0;
+}
+#wrapper {
+	width: 960px;
+	margin: 0 auto;
+	display: auto;
+}
+#social-media {
+	float: right;
+	bottom: 0;
+	display: inline;
+	left: 0;
+	position: absolute;
+}
+#top {
+	height: 58px;
+	margin: 0;
+	padding: 10px 0;
+	position: relative;
+}
+
+.box1 {
+	background: white;
+	text-align: left;
+	width: 250px;
+	padding: 3px;
+	margin: 0 auto;
+}
+
+.box2 {
+	background: white;
+	text-align: left;
+	width: 250px;
+	padding: 3px;
+	margin: 0 auto; 
+}
+
+.box3 {
+	background: white;
+	text-align: left;
+	width: 250px;
+	padding: 3px;
+	margin: 0 auto;
+}
+.footer {
+	background-color: black;
+	color: white;
+}
