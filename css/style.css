@@ -87,69 +87,36 @@ p {
 	float: left;
 	margin: 12px 5px 0 5px;
 }
-#linkedin {
-	background-image: url("../images/linkedin-grey.png");
+#linkedin, #facebook, #twitter, #rss, #linkedin:hover, #facebook:hover, #twitter:hover, #rss:hover {
 	height: 48px;
 	width: 48px;
 	display: inline-block;
 	float: right;
 	margin: 12px 5px 0 5px;
+}
+#linkedin {
+	background-image: url("../images/linkedin-grey.png");
 }
 #facebook {
 	background-image: url("../images/facebook-grey.png");
-	height: 48px;
-	width: 48px;
-	display: inline-block;
-	float: right;
-	margin: 12px 5px 0 5px;
 }
 #twitter {
 	background-image: url("../images/twitter-grey.png");
-	height: 48px;
-	width: 48px;
-	display: inline-block;
-	float: right;
-	margin: 12px 5px 0 5px;
 }
 #rss {
 	background-image: url("../images/rss-grey.png");
-	height: 48px;
-	width: 48px;
-	display: inline-block;
-	float: right;
-	margin: 12px 5px 0 5px;
 }
 #linkedin:hover {
 	background-image: url("../images/linkedin.png");
-	height: 48px;
-	width: 48px;
-	display: inline-block;
-	float: right;
-	margin: 12px 5px 0 5px;
 }
 #facebook:hover {
 	background-image: url("../images/facebook.png");
-	height: 48px;
-	width: 48px;
-	display: inline-block;
-	float: right;
-	margin: 12px 5px 0 5px;
 }
 #twitter:hover {
 	background-image: url("../images/twitter.png");
-	height: 48px;
-	width: 48px;
-	display: inline-block;
-	float: right;
-	margin: 12px 5px 0 5px;
 }
 #rss:hover {
 	background-image: url("../images/rss.png");
-	height: 48px;
-	width: 48px;
-	display: inline-block;
-	float: right;
-	margin: 12px 5px 0 5px;
 }
 #photobanner {
 	background-image: url("../images/photobanner.png");
@@ -196,24 +163,10 @@ p {
 #box3 {
 	margin-left: 23px;
 }
-#column1 {
+#column1, #column2, #column3 {
 	height: 101px;
 	width: 274px;
 	margin: 20px 0 20px 0;	
-	border: 7px solid silver;
-	padding: 1px;
-}
-#column2 {
-	height: 101px;
-	width: 274px;
-	margin: 20px 0 20px 0;
-	border: 7px solid silver;
-	padding: 1px;
-}
-#column3 {
-	height: 101px;
-	width: 274px;
-	margin: 20px 0 20px 0;
 	border: 7px solid silver;
 	padding: 1px;
 }
