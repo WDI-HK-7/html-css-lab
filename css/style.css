@@ -197,25 +197,25 @@ p {
 	margin-left: 23px;
 }
 #column1 {
-	background-image: url("../images/photo_column1.jpg");
 	height: 101px;
 	width: 274px;
 	margin: 20px 0 20px 0;	
 	border: 7px solid silver;
+	padding: 1px;
 }
 #column2 {
-	background-image: url("../images/photo_column2.jpg");
 	height: 101px;
 	width: 274px;
 	margin: 20px 0 20px 0;
 	border: 7px solid silver;
+	padding: 1px;
 }
 #column3 {
-	background-image: url("../images/photo_column3.jpg");
 	height: 101px;
 	width: 274px;
 	margin: 20px 0 20px 0;
 	border: 7px solid silver;
+	padding: 1px;
 }
 #blogroll, #meta {
 	display: inline-block;
