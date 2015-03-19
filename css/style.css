@@ -1,0 +1,180 @@
+/* Body */
+
+body {
+	font-family: arial;
+	position: relative;
+}
+
+#wrapper {
+	width: 800px;
+    margin: 0 auto;
+   	position: relative;
+   	overflow: hidden;
+}
+
+/* Navigation-Header */
+
+#nav {
+  position: relative;
+  background-color: black;
+  margin: 0px;
+  overflow: hidden;
+}
+
+#nav ul {
+  list-style-type: none;
+  margin: 0px;
+  background-color: black;
+  float: left;
+}
+
+#nav li {
+  display: block;
+  float: left; 
+  padding: 25px 10px;
+}
+
+#nav li:hover {
+  background-color: blue;
+}
+
+#nav a {
+  color: white;
+  font-family: Helvetica, Arial, sans-serif;
+  text-decoration: none;
+}
+
+/* Banner */
+
+#banner {
+	position: relative;
+}
+
+#logo {
+	float: left;
+	padding: 25px 10px;
+}
+
+#social-media-icons {
+	float: right;
+	padding: 10px;
+	list-style-type: none; 
+  	display: inline-table;
+  	text-decoration: none
+}
+
+.shadow {
+	-webkit-box-shadow: 0 8px 6px -6px black;
+	-moz-box-shadow: 0 8px 6px -6px black;
+	box-shadow: 0 8px 6px -6px black;
+}
+
+/* Button */
+
+#button-wrapper {
+	width: 600px;
+    margin: 0 auto;
+   	position: relative;
+   	overflow: hidden;
+}
+
+#button-wrapper a {
+	float: right;
+}
+
+#button-wrapper p {
+	text-align: left;
+	font-size: 9px;
+}
+
+/* Feature Box */
+
+#container {
+  	width: 800px;
+  	margin: 0 auto;
+   	position: relative;
+  	text-align: left;
+  	float: left;
+  	list-style-type: none;
+  	display: inline-block;
+}
+
+figcaption {
+	font-size: 9px;
+}
+
+#home-box1 {
+	float: left;
+  	margin: 0 3%;
+  	width: 30%;
+	height: 200px;
+  	width: 200px;
+}
+#home-box2 {
+  	float: left;
+  	margin: 0 3%;
+  	width: 30%;
+	height: 200px;
+  	width: 200px;
+}
+#home-box3 {
+	float: left;
+  	margin: 0 3%;
+  	width: 30%;
+	height: 200px;
+  	width: 200px;
+}
+
+/* Footer */
+
+#footer {
+  position: relative;
+  background-color: black;
+  /*margin: 0px;*/
+}
+
+#footer ul {
+  /* list-style-type: none; */
+  margin: 0px;
+  background-color: black;
+  float: left;
+  display: inline-block;
+}
+
+#footer ul li {
+  display: inline-block; 
+  float: left; 
+  padding: 25px 10px;
+}
+
+#footer .list-display {
+	display: block;
+	margin: 0px;
+  	background-color: black;
+  	float: left;
+  	color: #cccccc;
+  	font-size: 8px;
+  	list-style-type: none;
+}
+
+#footer ol li {
+  display: block;
+  float: left; 
+  padding: 25px 10px;
+  font-size: 8px;
+}
+
+#footer p {
+  display: block;
+  float: center; 
+  padding: 25px 10px;
+  font-size: 8px;
+}
+
+#footer a {
+  color: white;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  text-decoration: none;
+}
+
