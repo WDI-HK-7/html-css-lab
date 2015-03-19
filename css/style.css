@@ -1,0 +1,189 @@
+.header{
+	font-family:arial;
+	font-color: white;
+	background-color: black;
+	display: inline-block;
+	width: 100%;
+}
+
+.header ul{
+	padding-left:70px;
+	display: inline-block;
+}
+
+.header ul li{
+	font-color:white bold;
+	display: inline-block;
+	padding: 10px;
+
+}
+
+.header ul li a{
+	font-size: 14px;
+	text-decoration:none;
+}
+
+.content{
+	width: 800px;
+	margin: 0px auto;
+}
+
+#logo{
+	padding: 20px;
+	float:left;
+}
+
+#linkedin-grey{
+	padding-top: 30px;
+	padding-bottom: 20px;
+	padding-right: 10px;
+	display: inline-block;
+	float:right;
+}
+
+#twitter-grey{
+	padding-top: 30px;
+	padding-bottom: 20px;
+	padding-right: 10px;
+	display: inline-block;
+	float:right;
+}
+
+#facebook-grey{
+	padding-top: 30px;
+	padding-bottom: 20px;
+	padding-right: 10px;
+	display: inline-block;
+	float:right;
+}
+
+#rss-grey{
+	padding-top: 30px;ß
+	padding-bottom: 20px;
+	padding-right: 70px;
+	display: inline-block;
+	float:right;
+}
+
+#photobanner{
+	max-width:100%;
+}
+
+#shadowslider{
+	max-width:100%;
+}
+
+#first-content-box{
+	border:10px;
+	border-style: solid;
+	border-width:2px;
+	border-color:#eeeeee;
+	float:left;
+}
+
+#first-article{
+	width:60%;
+	float:left;
+}
+
+#Request-Quote-button{
+	border:1px;
+	width:40%;
+	float:right;
+}
+
+#mleftcol{
+	width:33%;
+	float:left;
+}
+
+#mmiddlecol{
+	width:34%;
+	float:left;
+}
+
+#mrightcol{
+	width:33%;
+	float:right;
+}
+
+#mleftcolimg{
+	float:left;
+	border-style: solid;
+	border-width:2px;
+	border-color: #eeeeee;
+	margin-right: 10px;
+}
+
+#mmiddlecolimg{
+	float:left;
+	border-style: solid;
+	border-width:2px;
+	border-color: #eeeeee;
+}
+
+#mrightcolimg{
+	float:right;
+	border-style: solid;
+	border-width:2px;
+	border-color: #eeeeee;
+}
+
+#footer{
+	float:left;
+}
+
+#bleftcol{
+	width:33%;
+	float:left;
+}
+
+#bmiddlecol{
+	width:34%;
+	float:left;
+}
+
+#brightcol{
+	width:33%;
+	float:right;
+}
+
+#bleftcol ul{
+	border-bottom-style: solid;
+	border-bottom-color: #eeeeee;
+}
+
+#bleftcol ul li{
+	border-bottom-style: solid;
+	border-bottom-color: #eeeeee;
+}
+
+#brightcol ul{
+	border-bottom-style: solid;
+	border-bottom-color: #eeeeee;
+}
+
+#brightcol ul li{
+	border-bottom-style: solid;
+	border-bottom-color: #eeeeee;
+}
+
+#left {
+	border-bottom-style: solid;
+	border-bottom-color: #eeeeee;
+}
+
+#center{
+	border-bottom-style: solid;
+	border-bottom-color: #eeeeee;
+}
+
+#right{
+	border-bottom-style: solid;
+	border-bottom-color: #eeeeee;
+}
+
+#footer{
+	font-family:arial;
+	width: 100%;
+}
