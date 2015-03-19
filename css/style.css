@@ -136,7 +136,7 @@ p {
 	background-image: url("../images/bg_blurb.jpg");
 	height: 129px;
 	width: 960;
-	border: 3px inset silver;
+	border: 3px inset white;
 }
 #blurb2 {
 	padding-top: 25px;
