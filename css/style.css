@@ -34,7 +34,7 @@ nav {
 }
 nav > ol > li:hover {
 	background-image: url("../images/bg_nav_rollover.png");
-	height: 62px;
+	height: 47px;
 }
 a {
 	color: #0099FF;
@@ -44,7 +44,7 @@ a {
 figcaption {
 	padding-bottom: 15px;
 }
-ul {
+ul, ol {
     list-style-type: none;
     padding: 0;
 }
@@ -63,7 +63,8 @@ p {
 .navList {
 	display: inline-block;
 	height: 77px;
-	padding: 15px 15px 0 15px;
+	padding: 30px 15px 0 15px;
+	font-size: 18px;
 	text-align: center;
 }
 .box {
