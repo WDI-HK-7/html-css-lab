@@ -1,0 +1,43 @@
+body {
+	background: url("../images/bg_body.jpg");
+}
+
+#navigation {
+	color: white;
+	height: 60px;
+	width: auto;
+	background-color: black;
+	text-align: left;
+
+}
+
+#main-content {
+	color: white;
+	padding-top: 10px; 5px; 20px; 8px;
+	padding-left: 10px; 5px; 20px; 8px;
+	paddig: 10px; 5px; 20px; 8px;
+}
+
+nav ul li {
+	display: inline-block;
+	padding-top: 10px; 5px; 20px; 8px;
+	padding-left: 10px; 5px; 20px; 8px;
+	color: white;
+}
+#rainbow {
+	width: 840px;
+}
+
+#main-picture {
+	display: align left;
+}
+
+#links {
+	float: right;
+}
+
+#wrapper {
+	width: 840px;
+	margin: 0 auto;
+	display: auto;
+}
