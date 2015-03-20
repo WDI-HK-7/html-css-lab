@@ -63,26 +63,24 @@
 	background-image: url(../images/linkedin.png);
 }
 
-.banner { 
+.text{
+	display: inline-block;
 }
 
-,article {
+.article {
 	border: 2px;
-
-}
-
-article {
+	float: left;
 	font-family: Helvetica;
 	font-size: 14px;
+}
+
+#blurb {
+	float: right;
 }
 
 .container {
 	width: 960px;
 	margin: 0 auto;
-}
-
-#homebox {
-
 }
 
 .column {
@@ -97,8 +95,9 @@ p {
 }
 
 footer {
-background-color: black;
-color: white;
+	background-color: black;
+	color: white;
+	font-family: Helvetica;
 }
 
 footer li {
